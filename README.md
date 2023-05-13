@@ -16,7 +16,7 @@ Try out the different features as I am fairly new at this
 
 ## Links
 
-- Live Site URL: [Live](https://gulzhub.github.io/meme-generator/)
+- Live Site URL: [Live](https://gulzhub.github.io/memeGenerator/)
 
 ### Built with
 
